@@ -16,7 +16,7 @@
 
 <table align="center">
   <tr>
-    <th>Language</th>
+    <th>Languages</th>
     <th>Backend</th>
     <th>Databases</th>
     <th>Tools</th>

@@ -46,7 +46,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=damakalshchikov&style=flat-square&color=grey" alt="Profile views" />
-</p>
